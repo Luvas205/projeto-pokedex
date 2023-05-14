@@ -14,10 +14,10 @@ botaoAlterarTema.addEventListener("click", () => {
 
     if(modoEscuroAtivo) {
 
-        imagemBotaoTrocaTema.setAttribute("src", "./imagens/sun.png");
+        imagemBotaoTrocaTema.setAttribute("src", "./src/imagens/sun.png");
     } else {
 
-    imagemBotaoTrocaTema.setAttribute("src", "./imagens/moon.png");
+    imagemBotaoTrocaTema.setAttribute("src", "./src/imagens/moon.png");
 
     }
     
